@@ -1,3 +1,3 @@
 def call () {
-    echo "Deploying Artifact ${artifact} to ${deploy_Path}"
+    echo "Deploying Artifact /var/lib/jenkins to /home/ubuntu/apache-tomcat-9.0.109/webapps"
     }
