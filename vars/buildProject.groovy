@@ -1,4 +1,4 @@
-def call (String build = 'mvn clean pakage') {
+def call () {
     echo "Building Project..."
-    sh 'build'
+    
 }
